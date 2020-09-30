@@ -1,5 +1,5 @@
 # sample-business-site
 
-# uses flexbox, some js and lightbox
+> uses flexbox, some js and lightbox
 
 
